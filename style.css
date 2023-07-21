@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+.result-container {
+    max-width: 600px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.score-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.expertise-container {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.expertise {
+    font-size: 36px;
+    font-weight: bold;
+    color: #007bff;
+}
+
+.expertise-description {
+    font-size: 18px;
+    color: #333;
+}
+
+p {
+    margin: 0;
+}
